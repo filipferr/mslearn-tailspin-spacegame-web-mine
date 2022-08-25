@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/filipferr/Space%20Game%20-%20web/_apis/build/status/filipferr.mslearn-tailspin-spacegame-web-mine?branchName=main)](https://dev.azure.com/filipferr/Space%20Game%20-%20web/_build/latest?definitionId=4&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
